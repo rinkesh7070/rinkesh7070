@@ -104,13 +104,6 @@ Backend Engineering | System Design | High Performance APIs
 
 ---
 
-### 👀 Visitor Count:
-<p align="center">
-  <img src="https://profile-counter.glitch.me/rinkesh7070/count.svg?theme=tokyonight"" />
-</p>
-
----
-
 ### 📘 Continuous Learning:
 - 🌱 Exploring: **Cloud-native design**, **Go concurrency**, **Kafka tuning**
 - 📗 Interested in: **Distributed Systems**, **API Gateway architecture**, **Scalable Databases**
