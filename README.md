@@ -42,8 +42,8 @@ Backend Engineering | System Design | High Performance APIs
 ### 🌐 Connect with Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/rinkeshbhutwala/" target="blank"><img align="center" src="https://github.com/rinkesh7070/rinkesh7070/blob/main/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/rinkesh7070" target="blank"><img align="center" src="https://github.com/rinkesh7070/rinkesh7070/github.png" alt="GitHub" height="30" width="40" /></a>
-<a href="mailto:rinkeshbhutwala@gmail.com" target="blank"><img align="center" src="https://github.com/rinkesh7070/rinkesh7070/gmail.png" alt="Email" height="30" width="40" /></a>
+<a href="https://github.com/rinkesh7070" target="blank"><img align="center" src="https://github.com/rinkesh7070/rinkesh7070/blob/main/github.png" alt="GitHub" height="30" width="40" /></a>
+<a href="mailto:rinkeshbhutwala@gmail.com" target="blank"><img align="center" src="https://github.com/rinkesh7070/rinkesh7070/blob/main/gmail.png" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
